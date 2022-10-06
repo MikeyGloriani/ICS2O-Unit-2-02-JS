@@ -7,5 +7,7 @@
 /**
  * Do basic math.
  */
-function doMathClicked()
+function doMathClicked() {
     document.getElementById("area-math").innerHTML = "<p>The area is:" + (5*3) + "</p>"
+}
+    
